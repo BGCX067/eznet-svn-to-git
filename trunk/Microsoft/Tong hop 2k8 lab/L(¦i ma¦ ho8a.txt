@@ -1,0 +1,7 @@
+﻿Do có giới hạn về định dạng tệp zip được hỗ trợ, tệp sau đây cần được đổi tên.
+
+Tên tệp gốc  ->  Tên tệp mới
+LAB 1Cài đặt Windows Server 2008.pdf -> File1.pdf
+LAB 3Công cụ quản trị Server Manager  .pdf -> File2.pdf
+LAB 2Nâng cấp windows Server 2003 lên Windows Server 2008 .pdf -> File3.pdf
+LAB 23 Ảo hóa Hyper-V .pdf -> File4.pdf
